@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ec72f46-0571-48ca-8ca1-e3fc472bbbae" name="Changes" comment="new file">
+    <list default="true" id="2ec72f46-0571-48ca-8ca1-e3fc472bbbae" name="Changes" comment="new">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LastLab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LastLab.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Drobbi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Drobbi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Junit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Junit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Preobrazovanie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Preobrazovanie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Procedure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Procedure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vichislitel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vichislitel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +63,14 @@
       <option name="presentableId" value="Default" />
       <updated>1678891504897</updated>
     </task>
+    <task id="LOCAL-00001" summary="new">
+      <created>1678982511097</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678982511097</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new file" />
-    <option name="LAST_COMMIT_MESSAGE" value="new file" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
 </project>
