@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ec72f46-0571-48ca-8ca1-e3fc472bbbae" name="Changes" comment="" />
+    <list default="true" id="2ec72f46-0571-48ca-8ca1-e3fc472bbbae" name="Changes" comment="new file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LastLab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LastLab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Drobbi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Drobbi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Junit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Junit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Preobrazovanie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Preobrazovanie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Procedure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Procedure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vichislitel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vichislitel.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2N3SvEcyr9Vt8kiN2DIfCeNgJLM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,12 +37,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+      <recent name="Tatyanka25.util.Tatyanka25Test" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new file" />
+    <option name="LAST_COMMIT_MESSAGE" value="new file" />
   </component>
 </project>
